@@ -1,0 +1,14 @@
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\bin\Debug\net8.0\KSeykov1810_project5.exe
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\bin\Debug\net8.0\KSeykov1810_project5.deps.json
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\bin\Debug\net8.0\KSeykov1810_project5.runtimeconfig.json
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\bin\Debug\net8.0\KSeykov1810_project5.dll
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\bin\Debug\net8.0\KSeykov1810_project5.pdb
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.AssemblyInfoInputs.cache
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.AssemblyInfo.cs
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.dll
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\refint\KSeykov1810_project5.dll
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.pdb
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\KSeykov1810_project5.genruntimeconfig.cache
+C:\Users\kalin\source\repos\KSeykov1810\KSeykov1810_project5\obj\Debug\net8.0\ref\KSeykov1810_project5.dll
